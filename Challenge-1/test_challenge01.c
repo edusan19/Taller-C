@@ -8,4 +8,6 @@ void test_suma() {
     assert(suma(2, 3) == 5);
     assert(suma(-1, 1) == 0);
     assert(suma(-2, -3) == -5);
+
+    printf("All test_passed!\n")
 }
